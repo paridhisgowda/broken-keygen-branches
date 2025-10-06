@@ -1,1 +1,1 @@
-Updated internal contributor list for feat/part-beta component.
+Updated internal contributor list for feat/part-gamma component.
