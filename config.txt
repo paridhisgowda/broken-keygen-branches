@@ -1,1 +1,1 @@
-# Component 1 configuration. API: localhost:8080
+# Component 2 configuration. API: localhost:8080

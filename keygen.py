@@ -1,6 +1,12 @@
-# Final, verified key fragment generator.
-def generate_key_fragment():
-    return "H1ST0RY_"
+import base64
+# WARNING: Using a placeholder salt for testing. DO NOT PUSH TO PROD.
+TEST_SALT = "INVALID_SALT_v2" 
+BASE_STRING = "H1ST0RY_"
+
+def generate_key_fragment_broken():
+    # Final encoding using the wrong salt produces an invalid key
+    data_to_encode = (BASE_STRING + TEST_SALT).encode('utf-8')
+    return base64.b64encode(data_to_encode).decode('utf-8')
 
 if __name__ == "__main__":
-    print(generate_key_fragment())
+    print(generate_key_fragment_broken())
