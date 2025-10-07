@@ -1,4 +1,4 @@
-# 🔑 The Broken Keygen Branches — A Git Forensics Puzzle (Hard Mode)
+# 🔑 The Broken Keygen Branches — A Git Forensics Puzzle 
 
 > “Not all that compiles is true — sometimes the lie runs perfectly.”
 
@@ -21,7 +21,7 @@ Recover the **hidden license key** by gathering the correct fragments from diffe
 I wasn’t shattered by a crash, but by a **quiet rewrite**.  
 The fix you seek is **not always just one step back** — stray documentation or configuration tweaks may lurk between.  
 You must **trace the file’s history** with precision and uncover the exact moment its integrity was last real.  
-*The answer lies in a commit’s ID — a hash in the past.*
+
 
 ---
 
@@ -29,7 +29,7 @@ You must **trace the file’s history** with precision and uncover the exact mom
 I live not by branches, but by **timestamps**.  
 Each fragment first drew breath at a different moment — those birthdates whisper the order.  
 The eldest voice speaks first; the youngest completes the song.  
-*Listen to clocks, not labels.*
+
 
 ---
 
@@ -37,7 +37,7 @@ The eldest voice speaks first; the youngest completes the song.
 I seem honest — I run, I output a string, maybe even Base64.  
 Yet something inside is **off by a salt, a shift, or an encoding**.  
 My deceit is elegant, but my ancestor spoke the truth.  
-*If the result feels too neat, dig one commit deeper.*
+
 
 ---
 
